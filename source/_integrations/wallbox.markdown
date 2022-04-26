@@ -10,6 +10,7 @@ ha_platforms:
   - lock
   - number
   - sensor
+  - switch
 ha_config_flow: true
 ha_codeowners:
   - '@hesselonline'
