@@ -21,7 +21,7 @@ The integration is tested and verified for the following devices from YouLess:
 
 * LS110
 * LS120 running PVOutput firmware
-* LS120 running Enologic firmware
+* LS120 running Enelogic firmware
 
 {% include integrations/config_flow.md %}
 
