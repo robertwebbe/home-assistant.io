@@ -47,7 +47,7 @@ The following bridges are reported to work with this integration:
  - DD7002B Connector bridge
  - D1554 Connector mini-bridge
  - DD7002B Brel-Home box
- - D1554 Brel Home USB plug
+ - DD-1554 Brel Home USB plug
 
 {% include integrations/config_flow.md %}
 
