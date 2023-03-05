@@ -45,6 +45,7 @@ The following bridges are reported to work with this integration:
  - CM-20 Motion Blinds bridge
  - CMD-01 Motion Blinds mini-bridge
  - DD7002B Connector bridge
+ - DD7006B PoE bridge
  - D1554 Connector mini-bridge
  - DD7002B Brel-Home box
  - D1554 Brel Home USB plug
